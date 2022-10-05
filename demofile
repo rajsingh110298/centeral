@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 def myfunction(list):
    for i in list:
       print(i*i)
+=======
+ second code for clint
+>>>>>>> Stashed changes
 
